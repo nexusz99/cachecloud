@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/FastInfoset-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/guava-r09.jar"/>
+	<classpathentry kind="lib" path="lib/libthrift-0.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/speed4j-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/uuid-3.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nexusz99/work/cachecloud/CacheCloud-Daemon/lib/hector-corem-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/nexusz99/work/cachecloud/CacheCloud-Daemon/lib/commons-cli-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/nexusz99/work/cachecloud/CacheCloud-Daemon/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nexusz99/work/cachecloud/CacheCloud-Daemon/lib/java_memcached-release_2.6.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
